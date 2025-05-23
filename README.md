@@ -1,5 +1,8 @@
 ![Header](./header_git.png)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valenzzaira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/4495699296)
+
 # 💻 QA Tester | Manual y Automatizado
 
 ¡Hola! Soy un apasionado **QA Tester** con experiencia en **pruebas manuales y automatizadas**. Mi objetivo es garantizar la calidad del software mediante el diseño, ejecución y automatización de pruebas que mejoren la funcionalidad, el rendimiento y la experiencia del usuario.
@@ -27,8 +30,11 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mi trabajo:
 - 🔍 **Enfocado en garantizar la calidad del software** mediante pruebas rigurosas y estrategias de automatización.
 - 🛠 **Experiencia en pruebas de API**, automatización de UI y validación de bases de datos.
 - 📚 Siempre aprendiendo y **explorando nuevas metodologías de prueba con la IA**.
+- 🔭 Actualmente estoy trabajando como freelancer QA en plataformas open Source y privados.
 
-💬 ¡Conectemos! Siempre estoy abierto a colaborar en proyectos interesantes y contribuir a la garantía de calidad en el desarrollo.
+💬 ¡Conectemos! Siempre estoy abierto a colaborar en proyectos interesantes y contribuir a la garantía de calidad en el desarrollo. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
 
 
