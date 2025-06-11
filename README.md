@@ -5,7 +5,7 @@
 
 # 💻 QA Tester | Manual y Automatizado
 
-¡Hola! Soy Zai, me encantan los detalles y jugar a observar defectos en aplicaciones software ya sea en  **pruebas manuales y automatizadas**. Mi objetivo es garantizar la calidad del software mediante el diseño, ejecución y automatización de pruebas que mejoren la funcionalidad, el rendimiento y la experiencia del usuario. Me obsesiono muchisimo con pruebas de back-end y herramientas para validaciones de ETL y APIS.
+¡Hola! Soy Zai, me encantan los detalles y poner en práctica mi ojo crítico  en aplicaciones software ya sea en  **pruebas manuales y automatizadas**. Mi objetivo es garantizar la calidad del software mediante el diseño, ejecución y automatización de pruebas que mejoren la funcionalidad, el rendimiento y la experiencia del usuario. Me obsesiono muchisimo con pruebas de back-end y herramientas para validaciones de ETL y APIS.
 
 ## 🚀 Habilidades
 
